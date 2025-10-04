@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cloud Computing Lab – Lab 1
 
 **Name:** Nimra Mursleen
@@ -46,5 +45,4 @@
 ## Accessing Ubuntu Server from Windows
 
 ![Connect via SSH from Windows](screenshot-lab1/picture15.png)
-=======
 
