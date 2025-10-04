@@ -125,11 +125,10 @@
    - Create `develop` and `staging` branch  
    ![Branch Strategy Part 1](screenshots/branch_strategy_part1.png)
 
-   - Create `feature/login` and `bugfix/error-msg` branch in `develop`  
+   - Create `feature/login` and `bugfix/error-msg` branch in `develop`
    ![Branch Strategy Part 2](screenshots/branch_strategy_part2.png)
 
     ![Branch Strategy Part 3](screenshots/branch_strategy_part3.png)
-
 
 2. Merges into `develop` and `staging`  
 ![Branch Merges](screenshots/branch_merges.png)
