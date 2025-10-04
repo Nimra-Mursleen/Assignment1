@@ -72,8 +72,6 @@
 2. Stage and commit  
 ![Commit Notes](screenshots/commit_notes.png)
 
-3. Edit `notes.txt` and repeat status/commit steps
-
 ---
 
 ## Task 7: Branch Creation Using GitHub GUI
